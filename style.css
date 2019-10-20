@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header {
+    background-color: #666;
+    padding: 30px;
+    font-size: 35px;
+    color: white;
+}
+
+
+.left,
+.right {
+    background-color: antiquewhite;
+    float: left;
+    width: 20%;
+    padding: 15px;
+    height: 300px;
+}
+
+section {
+    float: left;
+    padding: 20px;
+    width: 60%;
+    background-color: #f1f1f1;
+    height: 300px;
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    color: white;
+    clear: both;
+}
